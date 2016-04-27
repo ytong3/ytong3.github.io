@@ -1,0 +1,11 @@
+- name: CMake by Example
+  url: http://mirkokiefer.com/blog/2013/03/cmake-by-example/
+  category: building
+
+- name: Building and cross-compile tutorial
+  url: http://www.fabriziodini.eu/posts/cross_compile_tutorial/
+  category: building
+  
+- name: Everything you need to kick ass on your coding interview
+  url: https://github.com/andreis/interview
+  category: Technical Interview
