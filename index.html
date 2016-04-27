@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div class="portfolio">
+    <h1>Build and compiling:</h1>
+    <ul>
+        {% for websites in site.data.building %}
+        <li>
+            <a href="{{ building.name }}">{{ building.url }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
