@@ -5,7 +5,27 @@
 - name: Building and cross-compile tutorial
   url: http://www.fabriziodini.eu/posts/cross_compile_tutorial/
   category: building
-  
+
 - name: Everything you need to kick ass on your coding interview
   url: https://github.com/andreis/interview
-  category: Technical Interview
+  category: interview
+
+- name: COMPILER, ASSEMBLER, LINKER AND LOADER: A BRIEF STORY
+  url: http://www.tenouk.com/ModuleW.html
+  category: building
+
+- name: ld.so Dynamic Link library support for the Linux OS.
+  url: https://cs.nyu.edu/~xiaojian/bookmark/linux/ld_so%20%20Dynamic-Link%20Library%20support.htm
+  category: building
+
+- name: The linux loader, and how it finds libraries: ld-linux and so on
+  url: https://grahamwideman.wordpress.com/2009/02/09/the-linux-loader-and-how-it-finds-libraries/
+  category: building
+
+- name: Program Library HOWTO: shared libraries
+  url: http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
+  category: building
+
+- name: 程序员技术练级攻略
+  url: http://coolshell.cn/articles/4990.html
+  category: career
