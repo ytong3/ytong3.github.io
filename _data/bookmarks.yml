@@ -22,7 +22,7 @@
   url: https://grahamwideman.wordpress.com/2009/02/09/the-linux-loader-and-how-it-finds-libraries/
   category: building
 
-- name: Program Library HOWTO\: shared libraries
+- name: "Program Library HOWTO: shared libraries"
   url: http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
   category: building
 
