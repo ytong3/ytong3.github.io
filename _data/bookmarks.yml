@@ -1,20 +1,20 @@
-- name: CMake by Example
+- name: "CMake by Example"
   url: http://mirkokiefer.com/blog/2013/03/cmake-by-example/
   category: building
 
-- name: Building and cross-compile tutorial
+- name: "Building and cross-compile tutorial"
   url: http://www.fabriziodini.eu/posts/cross_compile_tutorial/
   category: building
 
-- name: Everything you need to kick ass on your coding interview
+- name: "Everything you need to kick ass on your coding interview"
   url: https://github.com/andreis/interview
-  category: interview
+  category: career
 
 - name: "COMPILER, ASSEMBLER, LINKER AND LOADER: A BRIEF STORY"
   url: http://www.tenouk.com/ModuleW.html
   category: building
 
-- name: ld.so Dynamic Link library support for the Linux OS.
+- name: "ld.so Dynamic Link library support for the Linux OS"
   url: https://cs.nyu.edu/~xiaojian/bookmark/linux/ld_so%20%20Dynamic-Link%20Library%20support.htm
   category: building
 
@@ -26,6 +26,6 @@
   url: http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
   category: building
 
-- name: 程序员技术练级攻略
+- name: "程序员技术练级攻略"
   url: http://coolshell.cn/articles/4990.html
   category: career
