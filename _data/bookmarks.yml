@@ -10,7 +10,7 @@
   url: https://github.com/andreis/interview
   category: interview
 
-- name: COMPILER, ASSEMBLER, LINKER AND LOADER: A BRIEF STORY
+- name: "COMPILER, ASSEMBLER, LINKER AND LOADER: A BRIEF STORY"
   url: http://www.tenouk.com/ModuleW.html
   category: building
 
@@ -18,11 +18,11 @@
   url: https://cs.nyu.edu/~xiaojian/bookmark/linux/ld_so%20%20Dynamic-Link%20Library%20support.htm
   category: building
 
-- name: The linux loader, and how it finds libraries: ld-linux and so on
+- name: "The linux loader, and how it finds libraries: ld-linux and so on"
   url: https://grahamwideman.wordpress.com/2009/02/09/the-linux-loader-and-how-it-finds-libraries/
   category: building
 
-- name: Program Library HOWTO: shared libraries
+- name: Program Library HOWTO\: shared libraries
   url: http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
   category: building
 
