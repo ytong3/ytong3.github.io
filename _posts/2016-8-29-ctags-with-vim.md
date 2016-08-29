@@ -3,13 +3,13 @@ layout: post
 title: Ctags with VIM
 ---
 
-##Ctags
+## Ctags
 
 It wasn't until recently that I still use the very basic search function of VIM to navigate a codebase, which kind of sucks. For example, to find the class definition for `SslServerStream` in [mono](https://www.github.com/mono/mono), I would do something like `find . -name '*.cs' -exec grep -iRHn 'SslServerStream'`. But, the problems were 1) it took a long time to search for it, 2) it gave me every match for the `SslServerStream`, including references, definitions, comments, although the class defintion is all I need. It was no good experience by any means.
 
 Then, I came across *ctags* with vim and wished I had knew it sooner! Without it, I had wasted tons of time navigating a large code base and making myself overwhelmed.
 
-*Ctags* basically goes through your code base, analyzes the code, create tags for classes, functions, and variables and save the tags, and their location in the code base, to a tag file. The tag file then serves as the source of meta information for vim, so that you may navigate the code base easily. It is worth noting that the tag function is builtin with vim. No extra plugin is needed.
+*Ctags* basically goes through your code base, analyzes the code, creates tags for classes, functions, and variables and saves the tags and their location in the code base, to a tag file. The tag file then serves as the source of meta information for vim, so that you may navigate the code base easily. It is worth noting that the tag function is builtin with vim. No extra plugin is needed.
 
 [This tutorial](http://courses.cs.washington.edu/courses/cse451/10au/tutorials/tutorial_ctags.html) provides a quite informative description of how to use it.
 
