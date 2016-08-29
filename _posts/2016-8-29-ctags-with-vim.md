@@ -2,7 +2,7 @@
 layout: post
 title: Ctags with VIM
 ---
-It wasn't until recently that I still use the very basic search function of VIM to navigate a codebase, which kind of sucks. For example, to find the class definition for `SslServerStream` in [mono](https://www.github.com/mono/mono), I would do something like `find . -name '*.cs' -exec grep -iRHn 'SslServerStream'`. But, the problems were 1) it took a long time to search for it, 2) it gave me every match for the `SslServerStream`, including references, definitions, comments, although the class defintion is all I need. It was no good experience by any means.
+Up until recently that I still use the very basic search function of VIM to navigate a codebase, which kind of sucks. For example, to find the class definition for `SslServerStream` in [mono](https://www.github.com/mono/mono), I would do something like `find . -name '*.cs' -exec grep -iRHn 'SslServerStream'`. But, the problems were 1) it took a long time to search for it, 2) it gave me every match for the `SslServerStream`, including references, definitions, comments, although the class defintion is all I need. It was no good experience by any means.
 
 Then, I came across *ctags* with vim and wished I had knew it sooner! Without it, I had wasted tons of time navigating a large code base and making myself overwhelmed.
 
