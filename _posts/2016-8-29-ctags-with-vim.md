@@ -32,14 +32,7 @@ To create tags for your code base: `ctags -R *`, `-R` is for 'recursively'. This
 		|**:ts**	|List definitions for the last tag|
 		|**Control+t** | Get to the last tag in the tag stack
 
+
 A little more on the last command. Say you are trying to make sense of a class `A`. Sometimes you have to take a detour to understand the `B` which is referenced in the defintion of `A`. So you do `Control+]` on `B` and read the code of `B`, and then you want to get back to where you initiated the search for `B` because you want to end the detour and continue on `A`. `Control+t` will do the trick for you.
-
-### Markdown Plugging
-
-### Auto completion
-
-### Auto close
-
-### Other tips
 
 That's it. Have fun `VIM`ming!
