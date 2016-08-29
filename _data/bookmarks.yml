@@ -1,3 +1,7 @@
+- name: "Practicing Programming"
+  url: https://sites.google.com/site/steveyegge2/practicing-programming
+  category: career
+
 - name: "CMake by Example"
   url: http://mirkokiefer.com/blog/2013/03/cmake-by-example/
   category: building
@@ -29,3 +33,4 @@
 - name: "程序员技术练级攻略"
   url: http://coolshell.cn/articles/4990.html
   category: career
+
