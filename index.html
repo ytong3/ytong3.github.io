@@ -35,3 +35,16 @@ Here are some articles that I would like to bookmark, just to keep track of what
       {% endfor %}
     </ul>
 </div>
+
+<div class="bookmark-category">
+    <h1>Running:</h1>
+    <ul>
+      {% for websites in site.data.bookmarks %}
+      {% if websites.category == "running" %}
+      <li>
+          <a href="{{websites.url}}">{{websites.name}}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+</div>
