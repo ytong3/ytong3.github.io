@@ -1,3 +1,6 @@
+# permalink for posts
+permalink: /blog/:title
+
 # My variables
 name: Aaron Tong
 description: 
